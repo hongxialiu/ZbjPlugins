@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\net.wequick.small\small\1.1.0-beta2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="122dc732e67e4f97068f13662f0b2e9baebf5139">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.wequick.small-small-1.1.0-beta2_2dffcd064cfc845aaf3eedca9fef8ccc6d962980\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_40d7f8223510e607e09f46a2c8db120aac4b622a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_4238b9ba7cfd338c5cac68d4691cd272cd62ff70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_7d80f61bb6f3cd370c876307061d095bf24f136f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_a54fb630267e0bf8a0ff001337213f7324712ffa\classes.dex" />
+    </item>
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5129f8bde69b8e9f927fc544f89ecaf4d60c953a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_ac1754e5886c44441f2e735c0a3f7e29513b748c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61204f831bb2f2bc96e648c4887b4490d421e8d6">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c6d48dcadb11d227c3e1dca4b0ebe15f50c8aa49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ca5f47e39aa6427b7353703af1385e9d9b796d0">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_304a66e367d8d676b7ceaf8dfafdad3a40fddb35\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_45d4346839a7f256ff1782eee85f6d9610acd4a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\liuhongxia\Desktop\PluginsShare\ZbjPlugins\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9afa4ba3774d4061355bc8e9f852d24918a18417\classes.dex" />
+    </item>
+
+</items>

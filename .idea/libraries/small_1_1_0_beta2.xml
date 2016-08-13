@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="small-1.1.0-beta2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.wequick.small/small/1.1.0-beta2/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.wequick.small/small/1.1.0-beta2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.wequick.small/small/1.1.0-beta2/1ed88312a2ec2ded5c1cb5484992dd0ddf6f0fc7/small-1.1.0-beta2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.wequick.small/small/1.1.0-beta2/1ed88312a2ec2ded5c1cb5484992dd0ddf6f0fc7/small-1.1.0-beta2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.wequick.small/small/1.1.0-beta2/1ed88312a2ec2ded5c1cb5484992dd0ddf6f0fc7/small-1.1.0-beta2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.wequick.small/small/1.1.0-beta2/1ed88312a2ec2ded5c1cb5484992dd0ddf6f0fc7/small-1.1.0-beta2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

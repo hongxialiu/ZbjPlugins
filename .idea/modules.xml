@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZbjPlugins.iml" filepath="$PROJECT_DIR$/ZbjPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.chart/app.chart.iml" filepath="$PROJECT_DIR$/app.chart/app.chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.pay/app.pay.iml" filepath="$PROJECT_DIR$/app.pay/app.pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.user/app.user.iml" filepath="$PROJECT_DIR$/app.user/app.user.iml" />
+    </modules>
+  </component>
+</project>

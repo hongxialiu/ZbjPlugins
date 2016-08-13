@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "pay",
+      "pkg": "com.zbj.zbjplugins.app.pay"
+    },
+    {
+      "uri": "user",
+      "pkg": "com.zbj.zbjplugins.app.user"
+    },
+    {
+      "uri": "chart",
+      "pkg": "com.zbj.zbjplugins.app.chart"
+    }
+
+  ]
+}
